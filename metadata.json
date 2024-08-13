@@ -1,0 +1,12 @@
+{
+    "name": "SkovvCoin",
+    "symbol": "SKOVV",
+    "description": "SkovvCoin!",
+    "image": "https://raw.githubusercontent.com/SkovvPL/asfasgvasdasfda/main/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
